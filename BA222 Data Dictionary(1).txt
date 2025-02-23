@@ -1,0 +1,106 @@
+The file ba222Project_CleanData_12December.csv contains data on variables that relate to food spending on the Boston University Campus. Units of observation vary. 
+
+
+Food Spending: How many $ were spent on food per week
+Income: Average Household Income in 25k ranges 
+Allowance Month: Average monthly allowances received in ranges 
+Source of Income Relied On For Food Purchases
+	1 = Allowance
+	2 = Savings
+	3 = Work
+	4 = Student Loan
+	5 = Scholarships
+	6 = Financial Aid
+	7 = Other
+Work = Does the individual work
+	Yes
+	No
+Dining Plan
+	Unlimited Plan
+	14+ Plan
+	330 Plan
+	250 Plan
+	Kosher Plan
+	Apartment Plan 500
+	Apartment Plan 1000
+	I Don't Have A Dining Plan
+	Other 
+Meals eaten on campus:
+	Breakfast 
+	Lunch
+	Snack
+	Dinner
+	Other
+Mealbox
+	Never
+	Sometimes
+	About half of the time
+	Most of the time
+	Always
+Which place campus do you spend the most cash/points at 
+	Starbucks
+	CityCo
+	Dunkin Donuts
+	Breadwinners
+	Bay State Underground
+	Law School Cafe
+	Einstein Bros.Bagels
+	Subway
+	Basho
+	Late Night Cafe at Warren 
+	Raising Cane's 
+	Healthy Blends
+	Late Night Case at West 
+	Greens & Grains
+	Charles River Bread Co. (CRB)
+	Open Kitchen - Chicken Kitchen
+	Rhett's
+	The Halal Guys @ The Market
+	Panda Express
+	Late Night Kitchen Fenway
+Meals_Amount: Meals on average eaten per week on Campus
+Travel = Travel time in minutes
+Travel_Other
+Age = In years of the survey taker
+Living
+	0 = On-Campus
+	1 = Off-Campus
+Gender
+	Male
+	Female
+	Non-Binary
+	Prefer not to answer
+International Student status 
+	Yes
+	No
+	Prefer not to answer
+Bu_Status
+	Undergraduate Student
+	Graduate Student
+	Faculty
+	Staff
+
+Notes: 
+89% of data was from QR codes, 11% were from anonymous links. 100% of cleaned data was from QR codes.
+Categories of observation to various questions are excluded if they do not make up 5%+ of the responses to that question. 
+
+Excluded:
+Source of Income Relied On For Food Purchases
+	7 = Other
+Dining Plan 
+	Kosher Plan
+	Apartment Plan 1000
+	Other
+Meals Eaten On Campus
+	Other
+Gender
+	Non-Binary
+	Prefer not to answer
+International Student status 
+	Prefer not to answer
+	I'm not a student
+Bu_Status
+	Faculty
+	Staff
+
+
