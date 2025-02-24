@@ -1,9 +1,11 @@
-# pythonschool
-Group Project and Homeworks from Python classes
+# pythonschool 
 
-ICA - In class assignments
+# Group Project and Homeworks from Python classes 
 
-HW - take home assignments
+# Boston University Management Information Systems
 
+# ICA - In class assignments
 
-Project Files - run own survey around campus, run regression models to understand patterns in food spending operations
+# HW - take home assignments
+
+# Project Files - run own survey around campus, run regression models to understand patterns in food spending operations
